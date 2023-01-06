@@ -2,11 +2,11 @@
 
 ⚡ Our CEO: **[Vatshayan](https://github.com/Vatshayan)**
 
-⚡ We are team of Data Scientist, Software Engineer and cyber experts.
+⚡ We are team of freelancer Data Scientist, Software Engineer, Blockchain Developers and cyber experts.
 
-🔭 We work on Machine Learning, Data Science, Cryptography & Communication Security
+🔭 We work on Machine Learning, Data Science, Cryptography, Blockchain & Communication Security
 
-💬 Ask me about Help in College Projects, Programming and Development
+💬 Ask about Help in College Projects, Programming and Development
 
 ⚡ Fun fact: I always reply mails in minutes.
 
@@ -16,4 +16,8 @@
 
 Mail : vatshayan007@gmail.com
 
-### Visit **[Final-Project]([https://projectspro.in/](https://www.finalproject.in/))** for Projects.
+### Website : [Final-Project](https://www.finalproject.in/)
+
+### Youtube Channel : [Visit](https://www.youtube.com/channel/UC-fiWBgdArpy9KtC_CO7XrQ)
+
+### Projects list : [Vist](https://www.computer-science-project.in/)
