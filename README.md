@@ -14,12 +14,6 @@
 
 🌱 Ask Freely!
 
-📫 How to reach me
+Mail : vatshayan007@gmail.com
 
-WhatsApp: +91 9310631437
-
-Gmail: **projectspro007@gmail.com**
-
-Linkedin: **[LINK](https://www.linkedin.com/company/projectspro/)**
-
-### Visit **[ProjectsPro](https://projectspro.in/)** for Projects.
+### Visit **[Final-Project]([https://projectspro.in/](https://www.finalproject.in/))** for Projects.
